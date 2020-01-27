@@ -3,7 +3,6 @@
 #include <Windows.h>
 #include <string>
 #include <stdio.h>
-#include <stdlib.h>
 
 using namespace std;
 
@@ -333,7 +332,7 @@ int main(int x=0)
 	case 35:
 		cout << "AUFGABE 35 - PQ FORMEL" << endl;
 
-		cout << "x² + P*x + Q" << endl;
+		cout << "xÂ² + P*x + Q" << endl;
 
 		cout << "P angeben: ";
 			cin >> VarP;
